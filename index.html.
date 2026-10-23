@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MotoTAX - ტაქსით მომსახურება დუშეთი</title>
+    <title>MotoTAX - ტაქსით მომსახურება ოზურგეთი</title>
     <style>
         body { background-color: #121212; color: #ffffff; font-family: Arial, sans-serif; text-align: center; padding: 20px; }
         h1 { color: #00ff66; }
@@ -15,10 +15,10 @@
     </style>
 </head>
 <body>
-    <h1>MotoTAX დუშეთი</h1>
+    <h1>MotoTAX ოზურგეთი</h1>
     <p>სწრაფი და უსაფრთხო მოტო-ტაქსი</p>
     
-    <a href="tel:+995500000000" class="btn">📞 ზარი (დარეკვა)</a>
+    <a href="tel:+995511183007" class="btn">📞 ზარი (დარეკვა)</a>
 
     <form>
         <h3>შეკვეთის ფორმა</h3>
